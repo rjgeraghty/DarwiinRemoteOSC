@@ -4,11 +4,11 @@
 #import <ApplicationServices/ApplicationServices.h>
 #import <QuartzComposer/QCView.h>
 // #import <WiiRemote/Mii.h>
-#import <OSCPort.h>
-#import <OSCInPort.h>
-#import <OSC-string-help.h>
-#import <WiiRemote/WiiRemote.h>
-#import <WiiRemote/WiiRemoteDiscovery.h>
+#import "OSCPort.h"
+#import "OSCInPort.h"
+#import "OSC-string-help.h"
+#import "WiiRemote/WiiRemote.h"
+#import "WiiRemote/WiiRemoteDiscovery.h"
 #import "GraphView.h"
 #import "GridView.h"
 #import "PreferenceWindow.h"
